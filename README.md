@@ -1,2 +1,14 @@
 # Leetcode-profile
 My Leetcode profile along with solutions for different difficulty level problems
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/Ayush-2145/Leetcode-profile/tree/master/1732-find-the-highest-altitude) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/Ayush-2145/Leetcode-profile/tree/master/1732-find-the-highest-altitude) |
+<!---LeetCode Topics End-->
