@@ -3,14 +3,21 @@
 class Solution {
     public int maximumElementAfterDecrementingAndRearranging(int[] arr) {
 
-        Arrays.sort(arr);
+        int n = arr.length;
+        int[] freq = new int[n + 1];
 
-        arr[0] = 1;
-
-        for (int i = 1; i < arr.length; i++) {
-            arr[i] = Math.min(arr[i], arr[i - 1] + 1);
+        for (int num : arr) {
+            freq[Math.min(num, n)]++;
         }
 
-        return arr[arr.length - 1];
+        int ans = 0;
+
+        for (int value = 1; value <= n; value++) {
+            while (freq[value]-- > 0) {
+                ans = Math.min(ans + 1, value);
+            }
+        }
+
+        return ans;
     }
 }
