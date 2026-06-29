@@ -33,5 +33,14 @@ My Leetcode profile along with solutions for different difficulty level problems
 ## String
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/Ayush-2145/Leetcode-profile/tree/master/1189-maximum-number-of-balloons) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ayush-2145/Leetcode-profile/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+## Hash Table
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/Ayush-2145/Leetcode-profile/tree/master/1189-maximum-number-of-balloons) |
+## Counting
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/Ayush-2145/Leetcode-profile/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
