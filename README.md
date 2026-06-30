@@ -25,6 +25,7 @@ My Leetcode profile along with solutions for different difficulty level problems
 ## Two Pointers
 |  |
 | ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ayush-2145/Leetcode-profile/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Simulation
 |  |
@@ -43,4 +44,8 @@ My Leetcode profile along with solutions for different difficulty level problems
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Ayush-2145/Leetcode-profile/tree/master/1189-maximum-number-of-balloons) |
+## Linked List
+|  |
+| ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 <!---LeetCode Topics End-->
