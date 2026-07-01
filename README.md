@@ -10,6 +10,7 @@ My Leetcode profile along with solutions for different difficulty level problems
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ayush-2145/Leetcode-profile/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ayush-2145/Leetcode-profile/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ayush-2145/Leetcode-profile/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3838-weighted-word-mapping](https://github.com/Ayush-2145/Leetcode-profile/tree/master/3838-weighted-word-mapping) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -31,11 +32,13 @@ My Leetcode profile along with solutions for different difficulty level problems
 |  |
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ayush-2145/Leetcode-profile/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3838-weighted-word-mapping](https://github.com/Ayush-2145/Leetcode-profile/tree/master/3838-weighted-word-mapping) |
 ## String
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Ayush-2145/Leetcode-profile/tree/master/1189-maximum-number-of-balloons) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ayush-2145/Leetcode-profile/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3838-weighted-word-mapping](https://github.com/Ayush-2145/Leetcode-profile/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
 | ------- |
