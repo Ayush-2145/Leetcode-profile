@@ -51,4 +51,17 @@ My Leetcode profile along with solutions for different difficulty level problems
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Ayush-2145/Leetcode-profile/tree/master/2487-remove-nodes-from-linked-list) |
+## Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/Ayush-2145/Leetcode-profile/tree/master/2487-remove-nodes-from-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/Ayush-2145/Leetcode-profile/tree/master/2487-remove-nodes-from-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/Ayush-2145/Leetcode-profile/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
