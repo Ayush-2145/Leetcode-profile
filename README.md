@@ -59,9 +59,18 @@ My Leetcode profile along with solutions for different difficulty level problems
 ## Recursion
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0342-power-of-four) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Ayush-2145/Leetcode-profile/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [2487-remove-nodes-from-linked-list](https://github.com/Ayush-2145/Leetcode-profile/tree/master/2487-remove-nodes-from-linked-list) |
+## Math
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0342-power-of-four) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
