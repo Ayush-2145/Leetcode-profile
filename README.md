@@ -6,6 +6,7 @@ My Leetcode profile along with solutions for different difficulty level problems
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0066-plus-one) |
 | [0485-max-consecutive-ones](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0485-max-consecutive-ones) |
 | [1732-find-the-highest-altitude](https://github.com/Ayush-2145/Leetcode-profile/tree/master/1732-find-the-highest-altitude) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ayush-2145/Leetcode-profile/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -70,6 +71,7 @@ My Leetcode profile along with solutions for different difficulty level problems
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0066-plus-one) |
 | [0342-power-of-four](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
