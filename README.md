@@ -12,6 +12,7 @@ My Leetcode profile along with solutions for different difficulty level problems
 | [1732-find-the-highest-altitude](https://github.com/Ayush-2145/Leetcode-profile/tree/master/1732-find-the-highest-altitude) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ayush-2145/Leetcode-profile/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ayush-2145/Leetcode-profile/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Ayush-2145/Leetcode-profile/tree/master/2094-finding-3-digit-even-numbers) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ayush-2145/Leetcode-profile/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3838-weighted-word-mapping](https://github.com/Ayush-2145/Leetcode-profile/tree/master/3838-weighted-word-mapping) |
 ## Prefix Sum
@@ -26,6 +27,7 @@ My Leetcode profile along with solutions for different difficulty level problems
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ayush-2145/Leetcode-profile/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Ayush-2145/Leetcode-profile/tree/master/2094-finding-3-digit-even-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -47,6 +49,7 @@ My Leetcode profile along with solutions for different difficulty level problems
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Ayush-2145/Leetcode-profile/tree/master/1189-maximum-number-of-balloons) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Ayush-2145/Leetcode-profile/tree/master/2094-finding-3-digit-even-numbers) |
 ## Counting
 |  |
 | ------- |
@@ -65,6 +68,7 @@ My Leetcode profile along with solutions for different difficulty level problems
 | ------- |
 | [0342-power-of-four](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0509-fibonacci-number) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Ayush-2145/Leetcode-profile/tree/master/2094-finding-3-digit-even-numbers) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Ayush-2145/Leetcode-profile/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
@@ -88,4 +92,8 @@ My Leetcode profile along with solutions for different difficulty level problems
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0509-fibonacci-number) |
+## Enumeration
+|  |
+| ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/Ayush-2145/Leetcode-profile/tree/master/2094-finding-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
