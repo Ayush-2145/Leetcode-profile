@@ -67,6 +67,7 @@ My Leetcode profile along with solutions for different difficulty level problems
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0342-power-of-four) |
+| [0390-elimination-game](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0390-elimination-game) |
 | [0509-fibonacci-number](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0509-fibonacci-number) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Ayush-2145/Leetcode-profile/tree/master/2094-finding-3-digit-even-numbers) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Ayush-2145/Leetcode-profile/tree/master/2487-remove-nodes-from-linked-list) |
@@ -79,6 +80,7 @@ My Leetcode profile along with solutions for different difficulty level problems
 | ------- |
 | [0066-plus-one](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0066-plus-one) |
 | [0342-power-of-four](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0342-power-of-four) |
+| [0390-elimination-game](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0390-elimination-game) |
 | [0509-fibonacci-number](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
 |  |
