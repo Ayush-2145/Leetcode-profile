@@ -97,5 +97,6 @@ My Leetcode profile along with solutions for different difficulty level problems
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/Ayush-2145/Leetcode-profile/tree/master/1291-sequential-digits) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Ayush-2145/Leetcode-profile/tree/master/2094-finding-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
