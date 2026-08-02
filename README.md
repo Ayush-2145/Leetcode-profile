@@ -7,6 +7,7 @@ My Leetcode profile along with solutions for different difficulty level problems
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0027-remove-element) |
+| [0037-sudoku-solver](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0066-plus-one) |
 | [0485-max-consecutive-ones](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0485-max-consecutive-ones) |
@@ -51,6 +52,7 @@ My Leetcode profile along with solutions for different difficulty level problems
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0037-sudoku-solver) |
 | [1189-maximum-number-of-balloons](https://github.com/Ayush-2145/Leetcode-profile/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Ayush-2145/Leetcode-profile/tree/master/1331-rank-transform-of-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Ayush-2145/Leetcode-profile/tree/master/2094-finding-3-digit-even-numbers) |
@@ -111,5 +113,10 @@ My Leetcode profile along with solutions for different difficulty level problems
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0051-n-queens) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
