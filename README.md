@@ -32,6 +32,7 @@ My Leetcode profile along with solutions for different difficulty level problems
 | [1331-rank-transform-of-an-array](https://github.com/Ayush-2145/Leetcode-profile/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ayush-2145/Leetcode-profile/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Ayush-2145/Leetcode-profile/tree/master/2094-finding-3-digit-even-numbers) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Ayush-2145/Leetcode-profile/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -48,6 +49,7 @@ My Leetcode profile along with solutions for different difficulty level problems
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Ayush-2145/Leetcode-profile/tree/master/1189-maximum-number-of-balloons) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ayush-2145/Leetcode-profile/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Ayush-2145/Leetcode-profile/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3838-weighted-word-mapping](https://github.com/Ayush-2145/Leetcode-profile/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
@@ -119,4 +121,8 @@ My Leetcode profile along with solutions for different difficulty level problems
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0037-sudoku-solver) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Ayush-2145/Leetcode-profile/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
