@@ -6,6 +6,7 @@ My Leetcode profile along with solutions for different difficulty level problems
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0027-remove-element) |
 | [0037-sudoku-solver](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0051-n-queens) |
@@ -30,6 +31,7 @@ My Leetcode profile along with solutions for different difficulty level problems
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0016-3sum-closest) |
 | [1331-rank-transform-of-an-array](https://github.com/Ayush-2145/Leetcode-profile/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ayush-2145/Leetcode-profile/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Ayush-2145/Leetcode-profile/tree/master/2094-finding-3-digit-even-numbers) |
@@ -38,6 +40,7 @@ My Leetcode profile along with solutions for different difficulty level problems
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0027-remove-element) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ayush-2145/Leetcode-profile/tree/master/2161-partition-array-according-to-given-pivot) |
