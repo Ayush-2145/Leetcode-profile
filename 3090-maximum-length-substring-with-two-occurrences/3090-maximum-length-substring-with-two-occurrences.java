@@ -1,6 +1,7 @@
 class Solution {
     public int maximumLengthSubstring(String s) {
-         int[] freq = new int[256];
+   
+        int[] freq = new int[256];
 
         int left = 0;
         int ans = 0;
@@ -18,5 +19,6 @@ class Solution {
         }
 
         return ans;
+    
     }
 }
