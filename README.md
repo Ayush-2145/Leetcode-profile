@@ -19,6 +19,7 @@ My Leetcode profile along with solutions for different difficulty level problems
 | [2094-finding-3-digit-even-numbers](https://github.com/Ayush-2145/Leetcode-profile/tree/master/2094-finding-3-digit-even-numbers) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ayush-2145/Leetcode-profile/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ayush-2145/Leetcode-profile/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Ayush-2145/Leetcode-profile/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Ayush-2145/Leetcode-profile/tree/master/3731-find-missing-elements) |
 | [3838-weighted-word-mapping](https://github.com/Ayush-2145/Leetcode-profile/tree/master/3838-weighted-word-mapping) |
 ## Prefix Sum
@@ -67,6 +68,7 @@ My Leetcode profile along with solutions for different difficulty level problems
 | [1331-rank-transform-of-an-array](https://github.com/Ayush-2145/Leetcode-profile/tree/master/1331-rank-transform-of-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Ayush-2145/Leetcode-profile/tree/master/2094-finding-3-digit-even-numbers) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ayush-2145/Leetcode-profile/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Ayush-2145/Leetcode-profile/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Ayush-2145/Leetcode-profile/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
