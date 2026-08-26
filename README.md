@@ -11,6 +11,7 @@ My Leetcode profile along with solutions for different difficulty level problems
 | [0037-sudoku-solver](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0066-plus-one) |
+| [0079-word-search](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0079-word-search) |
 | [0485-max-consecutive-ones](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0485-max-consecutive-ones) |
 | [1331-rank-transform-of-an-array](https://github.com/Ayush-2145/Leetcode-profile/tree/master/1331-rank-transform-of-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/Ayush-2145/Leetcode-profile/tree/master/1732-find-the-highest-altitude) |
@@ -55,6 +56,7 @@ My Leetcode profile along with solutions for different difficulty level problems
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0079-word-search) |
 | [1189-maximum-number-of-balloons](https://github.com/Ayush-2145/Leetcode-profile/tree/master/1189-maximum-number-of-balloons) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ayush-2145/Leetcode-profile/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ayush-2145/Leetcode-profile/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -131,10 +133,12 @@ My Leetcode profile along with solutions for different difficulty level problems
 | ------- |
 | [0037-sudoku-solver](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0051-n-queens) |
+| [0079-word-search](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0079-word-search) |
 ## Matrix
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0037-sudoku-solver) |
+| [0079-word-search](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0079-word-search) |
 ## Counting Sort
 |  |
 | ------- |
@@ -143,4 +147,8 @@ My Leetcode profile along with solutions for different difficulty level problems
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ayush-2145/Leetcode-profile/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
