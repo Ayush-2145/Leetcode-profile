@@ -59,6 +59,7 @@ My Leetcode profile along with solutions for different difficulty level problems
 | [0079-word-search](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0079-word-search) |
 | [1189-maximum-number-of-balloons](https://github.com/Ayush-2145/Leetcode-profile/tree/master/1189-maximum-number-of-balloons) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ayush-2145/Leetcode-profile/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ayush-2145/Leetcode-profile/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ayush-2145/Leetcode-profile/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ayush-2145/Leetcode-profile/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3838-weighted-word-mapping](https://github.com/Ayush-2145/Leetcode-profile/tree/master/3838-weighted-word-mapping) |
@@ -146,6 +147,7 @@ My Leetcode profile along with solutions for different difficulty level problems
 ## Sliding Window
 |  |
 | ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ayush-2145/Leetcode-profile/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ayush-2145/Leetcode-profile/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Depth-First Search
 |  |
