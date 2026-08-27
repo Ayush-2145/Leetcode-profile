@@ -57,6 +57,7 @@ My Leetcode profile along with solutions for different difficulty level problems
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0079-word-search) |
+| [0282-expression-add-operators](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0282-expression-add-operators) |
 | [1189-maximum-number-of-balloons](https://github.com/Ayush-2145/Leetcode-profile/tree/master/1189-maximum-number-of-balloons) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ayush-2145/Leetcode-profile/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ayush-2145/Leetcode-profile/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -102,6 +103,7 @@ My Leetcode profile along with solutions for different difficulty level problems
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0066-plus-one) |
+| [0282-expression-add-operators](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0282-expression-add-operators) |
 | [0342-power-of-four](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0390-elimination-game) |
 | [0509-fibonacci-number](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0509-fibonacci-number) |
@@ -135,6 +137,7 @@ My Leetcode profile along with solutions for different difficulty level problems
 | [0037-sudoku-solver](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0079-word-search) |
+| [0282-expression-add-operators](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0282-expression-add-operators) |
 ## Matrix
 |  |
 | ------- |
