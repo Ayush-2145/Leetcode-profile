@@ -5,7 +5,7 @@ class Solution {
         int minIndex = 0;
         int maxIndex = 0;
 
-        for (int i = 1; i < n; i++) {
+        for (int i = 0; i < n; i++) {
             if (nums[i] < nums[minIndex]) {
                 minIndex = i;
             }
@@ -14,14 +14,17 @@ class Solution {
                 maxIndex = i;
             }
         }
-        int left = Math.max(minIndex, maxIndex) + 1;
-        int right = n - Math.min(minIndex, maxIndex);
-        int leftRight = minIndex + 1 + (n - maxIndex);
-        int rightLeft = maxIndex + 1 + (n - minIndex);
+
+        int left = Math.min(minIndex, maxIndex);
+        int right = Math.max(minIndex, maxIndex);
 
         return Math.min(
-            Math.min(left, right),
-            Math.min(leftRight, rightLeft)
+            right + 1,
+            Math.min(
+                n - left,
+                left + 1 + n - right
+            )
         );
     }
 }
+
