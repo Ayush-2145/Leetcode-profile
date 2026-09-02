@@ -12,6 +12,7 @@ My Leetcode profile along with solutions for different difficulty level problems
 | [0051-n-queens](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0079-word-search) |
+| [0217-contains-duplicate](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0485-max-consecutive-ones) |
 | [1331-rank-transform-of-an-array](https://github.com/Ayush-2145/Leetcode-profile/tree/master/1331-rank-transform-of-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/Ayush-2145/Leetcode-profile/tree/master/1732-find-the-highest-altitude) |
@@ -38,6 +39,7 @@ My Leetcode profile along with solutions for different difficulty level problems
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0016-3sum-closest) |
+| [0217-contains-duplicate](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0217-contains-duplicate) |
 | [1331-rank-transform-of-an-array](https://github.com/Ayush-2145/Leetcode-profile/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ayush-2145/Leetcode-profile/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Ayush-2145/Leetcode-profile/tree/master/2094-finding-3-digit-even-numbers) |
@@ -72,6 +74,7 @@ My Leetcode profile along with solutions for different difficulty level problems
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0037-sudoku-solver) |
+| [0217-contains-duplicate](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0217-contains-duplicate) |
 | [1189-maximum-number-of-balloons](https://github.com/Ayush-2145/Leetcode-profile/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Ayush-2145/Leetcode-profile/tree/master/1331-rank-transform-of-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Ayush-2145/Leetcode-profile/tree/master/2094-finding-3-digit-even-numbers) |
