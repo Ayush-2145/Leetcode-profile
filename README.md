@@ -13,6 +13,7 @@ My Leetcode profile along with solutions for different difficulty level problems
 | [0066-plus-one](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0079-word-search) |
 | [0217-contains-duplicate](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0485-max-consecutive-ones) |
 | [1331-rank-transform-of-an-array](https://github.com/Ayush-2145/Leetcode-profile/tree/master/1331-rank-transform-of-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/Ayush-2145/Leetcode-profile/tree/master/1732-find-the-highest-altitude) |
@@ -28,6 +29,7 @@ My Leetcode profile along with solutions for different difficulty level problems
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0238-product-of-array-except-self) |
 | [1732-find-the-highest-altitude](https://github.com/Ayush-2145/Leetcode-profile/tree/master/1732-find-the-highest-altitude) |
 ## Greedy
 |  |
