@@ -114,6 +114,7 @@ My Leetcode profile along with solutions for different difficulty level problems
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0070-climbing-stairs) |
 | [0282-expression-add-operators](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0282-expression-add-operators) |
 | [0342-power-of-four](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0390-elimination-game) |
@@ -127,10 +128,12 @@ My Leetcode profile along with solutions for different difficulty level problems
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0509-fibonacci-number) |
 ## Enumeration
 |  |
