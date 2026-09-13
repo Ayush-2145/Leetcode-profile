@@ -17,6 +17,7 @@ My Leetcode profile along with solutions for different difficulty level problems
 | [0213-house-robber-ii](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0238-product-of-array-except-self) |
+| [0300-longest-increasing-subsequence](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0300-longest-increasing-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0485-max-consecutive-ones) |
 | [0518-coin-change-ii](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0518-coin-change-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Ayush-2145/Leetcode-profile/tree/master/1331-rank-transform-of-an-array) |
@@ -136,6 +137,7 @@ My Leetcode profile along with solutions for different difficulty level problems
 | [0070-climbing-stairs](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0300-longest-increasing-subsequence) |
 | [0509-fibonacci-number](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0518-coin-change-ii) |
 ## Memoization
@@ -188,4 +190,12 @@ My Leetcode profile along with solutions for different difficulty level problems
 |  |
 | ------- |
 | [0518-coin-change-ii](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0518-coin-change-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0300-longest-increasing-subsequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
