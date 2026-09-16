@@ -69,6 +69,7 @@ My Leetcode profile along with solutions for different difficulty level problems
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0079-word-search) |
+| [0091-decode-ways](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0091-decode-ways) |
 | [0282-expression-add-operators](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0282-expression-add-operators) |
 | [1143-longest-common-subsequence](https://github.com/Ayush-2145/Leetcode-profile/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Ayush-2145/Leetcode-profile/tree/master/1189-maximum-number-of-balloons) |
@@ -136,6 +137,7 @@ My Leetcode profile along with solutions for different difficulty level problems
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0091-decode-ways) |
 | [0198-house-robber](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0300-longest-increasing-subsequence) |
