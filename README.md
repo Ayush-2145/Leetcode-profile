@@ -120,6 +120,7 @@ My Leetcode profile along with solutions for different difficulty level problems
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0070-climbing-stairs) |
 | [0282-expression-add-operators](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0282-expression-add-operators) |
@@ -136,6 +137,7 @@ My Leetcode profile along with solutions for different difficulty level problems
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0091-decode-ways) |
 | [0198-house-robber](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0198-house-robber) |
@@ -206,4 +208,8 @@ My Leetcode profile along with solutions for different difficulty level problems
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/Ayush-2145/Leetcode-profile/tree/master/1143-longest-common-subsequence) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
