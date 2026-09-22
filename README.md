@@ -18,6 +18,7 @@ My Leetcode profile along with solutions for different difficulty level problems
 | [0217-contains-duplicate](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0300-longest-increasing-subsequence) |
+| [0455-assign-cookies](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0485-max-consecutive-ones) |
 | [0518-coin-change-ii](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0518-coin-change-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Ayush-2145/Leetcode-profile/tree/master/1331-rank-transform-of-an-array) |
@@ -39,6 +40,7 @@ My Leetcode profile along with solutions for different difficulty level problems
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0455-assign-cookies) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ayush-2145/Leetcode-profile/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ayush-2145/Leetcode-profile/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Ayush-2145/Leetcode-profile/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -47,6 +49,7 @@ My Leetcode profile along with solutions for different difficulty level problems
 | ------- |
 | [0016-3sum-closest](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0016-3sum-closest) |
 | [0217-contains-duplicate](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0217-contains-duplicate) |
+| [0455-assign-cookies](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0455-assign-cookies) |
 | [1331-rank-transform-of-an-array](https://github.com/Ayush-2145/Leetcode-profile/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ayush-2145/Leetcode-profile/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Ayush-2145/Leetcode-profile/tree/master/2094-finding-3-digit-even-numbers) |
@@ -58,6 +61,7 @@ My Leetcode profile along with solutions for different difficulty level problems
 | [0016-3sum-closest](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0027-remove-element) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0455-assign-cookies](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0455-assign-cookies) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ayush-2145/Leetcode-profile/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Simulation
 |  |
@@ -212,4 +216,8 @@ My Leetcode profile along with solutions for different difficulty level problems
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0062-unique-paths) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
