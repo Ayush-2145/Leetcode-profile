@@ -21,6 +21,7 @@ My Leetcode profile along with solutions for different difficulty level problems
 | [0455-assign-cookies](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0485-max-consecutive-ones) |
 | [0518-coin-change-ii](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0518-coin-change-ii) |
+| [0860-lemonade-change](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0860-lemonade-change) |
 | [1331-rank-transform-of-an-array](https://github.com/Ayush-2145/Leetcode-profile/tree/master/1331-rank-transform-of-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/Ayush-2145/Leetcode-profile/tree/master/1732-find-the-highest-altitude) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ayush-2145/Leetcode-profile/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -41,6 +42,7 @@ My Leetcode profile along with solutions for different difficulty level problems
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0860-lemonade-change) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ayush-2145/Leetcode-profile/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ayush-2145/Leetcode-profile/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Ayush-2145/Leetcode-profile/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
