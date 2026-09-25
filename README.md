@@ -11,6 +11,7 @@ My Leetcode profile along with solutions for different difficulty level problems
 | [0037-sudoku-solver](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0079-word-search) |
 | [0198-house-robber](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0198-house-robber) |
@@ -41,6 +42,7 @@ My Leetcode profile along with solutions for different difficulty level problems
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0860-lemonade-change) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ayush-2145/Leetcode-profile/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -143,6 +145,7 @@ My Leetcode profile along with solutions for different difficulty level problems
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0091-decode-ways) |
