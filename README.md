@@ -12,6 +12,7 @@ My Leetcode profile along with solutions for different difficulty level problems
 | [0039-combination-sum](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0079-word-search) |
@@ -55,6 +56,7 @@ My Leetcode profile along with solutions for different difficulty level problems
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0016-3sum-closest) |
+| [0056-merge-intervals](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0217-contains-duplicate) |
 | [0435-non-overlapping-intervals](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0455-assign-cookies) |
@@ -229,5 +231,6 @@ My Leetcode profile along with solutions for different difficulty level problems
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
