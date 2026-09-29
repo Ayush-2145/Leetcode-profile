@@ -12,6 +12,7 @@ My Leetcode profile along with solutions for different difficulty level problems
 | [0039-combination-sum](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0079-word-search) |
 | [0198-house-robber](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0198-house-robber) |
