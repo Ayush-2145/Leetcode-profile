@@ -82,6 +82,7 @@ My Leetcode profile along with solutions for different difficulty level problems
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0091-decode-ways) |
 | [0282-expression-add-operators](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0282-expression-add-operators) |
@@ -118,6 +119,7 @@ My Leetcode profile along with solutions for different difficulty level problems
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0020-valid-parentheses) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Ayush-2145/Leetcode-profile/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
@@ -233,4 +235,8 @@ My Leetcode profile along with solutions for different difficulty level problems
 | ------- |
 | [0056-merge-intervals](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0455-assign-cookies) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
