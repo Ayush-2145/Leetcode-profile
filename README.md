@@ -33,6 +33,7 @@ My Leetcode profile along with solutions for different difficulty level problems
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ayush-2145/Leetcode-profile/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Ayush-2145/Leetcode-profile/tree/master/2094-finding-3-digit-even-numbers) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ayush-2145/Leetcode-profile/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Ayush-2145/Leetcode-profile/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ayush-2145/Leetcode-profile/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ayush-2145/Leetcode-profile/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Ayush-2145/Leetcode-profile/tree/master/3731-find-missing-elements) |
@@ -42,6 +43,7 @@ My Leetcode profile along with solutions for different difficulty level problems
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0238-product-of-array-except-self) |
 | [1732-find-the-highest-altitude](https://github.com/Ayush-2145/Leetcode-profile/tree/master/1732-find-the-highest-altitude) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Ayush-2145/Leetcode-profile/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Greedy
 |  |
 | ------- |
@@ -51,6 +53,7 @@ My Leetcode profile along with solutions for different difficulty level problems
 | [0860-lemonade-change](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0860-lemonade-change) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ayush-2145/Leetcode-profile/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ayush-2145/Leetcode-profile/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Ayush-2145/Leetcode-profile/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Ayush-2145/Leetcode-profile/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sorting
 |  |
@@ -63,6 +66,7 @@ My Leetcode profile along with solutions for different difficulty level problems
 | [1331-rank-transform-of-an-array](https://github.com/Ayush-2145/Leetcode-profile/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ayush-2145/Leetcode-profile/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Ayush-2145/Leetcode-profile/tree/master/2094-finding-3-digit-even-numbers) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Ayush-2145/Leetcode-profile/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ayush-2145/Leetcode-profile/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/Ayush-2145/Leetcode-profile/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -73,6 +77,7 @@ My Leetcode profile along with solutions for different difficulty level problems
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0455-assign-cookies](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0455-assign-cookies) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ayush-2145/Leetcode-profile/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Ayush-2145/Leetcode-profile/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Simulation
 |  |
 | ------- |
@@ -243,4 +248,8 @@ My Leetcode profile along with solutions for different difficulty level problems
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0022-generate-parentheses) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Ayush-2145/Leetcode-profile/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 <!---LeetCode Topics End-->
