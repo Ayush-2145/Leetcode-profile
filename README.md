@@ -83,6 +83,7 @@ My Leetcode profile along with solutions for different difficulty level problems
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0091-decode-ways) |
 | [0282-expression-add-operators](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0282-expression-add-operators) |
@@ -153,6 +154,7 @@ My Leetcode profile along with solutions for different difficulty level problems
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0070-climbing-stairs) |
@@ -183,6 +185,7 @@ My Leetcode profile along with solutions for different difficulty level problems
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0051-n-queens) |
@@ -239,4 +242,5 @@ My Leetcode profile along with solutions for different difficulty level problems
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
