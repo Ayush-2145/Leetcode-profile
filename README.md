@@ -94,6 +94,7 @@ My Leetcode profile along with solutions for different difficulty level problems
 | [0079-word-search](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0091-decode-ways) |
 | [0282-expression-add-operators](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0282-expression-add-operators) |
+| [0301-remove-invalid-parentheses](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0301-remove-invalid-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/Ayush-2145/Leetcode-profile/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Ayush-2145/Leetcode-profile/tree/master/1189-maximum-number-of-balloons) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ayush-2145/Leetcode-profile/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -199,6 +200,7 @@ My Leetcode profile along with solutions for different difficulty level problems
 | [0051-n-queens](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0079-word-search) |
 | [0282-expression-add-operators](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0282-expression-add-operators) |
+| [0301-remove-invalid-parentheses](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0301-remove-invalid-parentheses) |
 ## Matrix
 |  |
 | ------- |
@@ -255,4 +257,8 @@ My Leetcode profile along with solutions for different difficulty level problems
 |  |
 | ------- |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Ayush-2145/Leetcode-profile/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
