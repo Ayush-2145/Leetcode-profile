@@ -52,6 +52,7 @@ My Leetcode profile along with solutions for different difficulty level problems
 | [0055-jump-game](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0860-lemonade-change) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ayush-2145/Leetcode-profile/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ayush-2145/Leetcode-profile/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -95,6 +96,7 @@ My Leetcode profile along with solutions for different difficulty level problems
 | [0091-decode-ways](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0091-decode-ways) |
 | [0282-expression-add-operators](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0282-expression-add-operators) |
 | [0301-remove-invalid-parentheses](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0301-remove-invalid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0678-valid-parenthesis-string) |
 | [1143-longest-common-subsequence](https://github.com/Ayush-2145/Leetcode-profile/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Ayush-2145/Leetcode-profile/tree/master/1189-maximum-number-of-balloons) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ayush-2145/Leetcode-profile/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -129,6 +131,7 @@ My Leetcode profile along with solutions for different difficulty level problems
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0678-valid-parenthesis-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Ayush-2145/Leetcode-profile/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
@@ -174,6 +177,7 @@ My Leetcode profile along with solutions for different difficulty level problems
 | [0435-non-overlapping-intervals](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0518-coin-change-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0678-valid-parenthesis-string) |
 | [1143-longest-common-subsequence](https://github.com/Ayush-2145/Leetcode-profile/tree/master/1143-longest-common-subsequence) |
 ## Memoization
 |  |
@@ -253,6 +257,7 @@ My Leetcode profile along with solutions for different difficulty level problems
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0678-valid-parenthesis-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
