@@ -97,6 +97,7 @@ My Leetcode profile along with solutions for different difficulty level problems
 | [0282-expression-add-operators](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0282-expression-add-operators) |
 | [0301-remove-invalid-parentheses](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0678-valid-parenthesis-string) |
+| [1021-remove-outermost-parentheses](https://github.com/Ayush-2145/Leetcode-profile/tree/master/1021-remove-outermost-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/Ayush-2145/Leetcode-profile/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Ayush-2145/Leetcode-profile/tree/master/1189-maximum-number-of-balloons) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ayush-2145/Leetcode-profile/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -132,6 +133,7 @@ My Leetcode profile along with solutions for different difficulty level problems
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0678-valid-parenthesis-string) |
+| [1021-remove-outermost-parentheses](https://github.com/Ayush-2145/Leetcode-profile/tree/master/1021-remove-outermost-parentheses) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Ayush-2145/Leetcode-profile/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
@@ -258,6 +260,7 @@ My Leetcode profile along with solutions for different difficulty level problems
 | [0020-valid-parentheses](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0678-valid-parenthesis-string) |
+| [1021-remove-outermost-parentheses](https://github.com/Ayush-2145/Leetcode-profile/tree/master/1021-remove-outermost-parentheses) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
