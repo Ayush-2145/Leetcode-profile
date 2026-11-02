@@ -76,6 +76,7 @@ My Leetcode profile along with solutions for different difficulty level problems
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0005-longest-palindromic-substring) |
 | [0016-3sum-closest](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0027-remove-element) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -91,6 +92,7 @@ My Leetcode profile along with solutions for different difficulty level problems
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0079-word-search) |
@@ -169,6 +171,7 @@ My Leetcode profile along with solutions for different difficulty level problems
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0055-jump-game) |
@@ -271,4 +274,8 @@ My Leetcode profile along with solutions for different difficulty level problems
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0301-remove-invalid-parentheses) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
