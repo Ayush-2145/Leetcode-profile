@@ -25,6 +25,7 @@ My Leetcode profile along with solutions for different difficulty level problems
 | [0435-non-overlapping-intervals](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0435-non-overlapping-intervals) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0485-max-consecutive-ones) |
 | [0518-coin-change-ii](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0518-coin-change-ii) |
 | [0860-lemonade-change](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0860-lemonade-change) |
@@ -67,6 +68,7 @@ My Leetcode profile along with solutions for different difficulty level problems
 | [0217-contains-duplicate](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0217-contains-duplicate) |
 | [0435-non-overlapping-intervals](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Ayush-2145/Leetcode-profile/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ayush-2145/Leetcode-profile/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Ayush-2145/Leetcode-profile/tree/master/2094-finding-3-digit-even-numbers) |
@@ -160,6 +162,7 @@ My Leetcode profile along with solutions for different difficulty level problems
 | [0342-power-of-four](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0390-elimination-game) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0509-fibonacci-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ayush-2145/Leetcode-profile/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ayush-2145/Leetcode-profile/tree/master/3658-gcd-of-odd-and-even-sums) |
