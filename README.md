@@ -40,6 +40,7 @@ My Leetcode profile along with solutions for different difficulty level problems
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ayush-2145/Leetcode-profile/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ayush-2145/Leetcode-profile/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Ayush-2145/Leetcode-profile/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Ayush-2145/Leetcode-profile/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3838-weighted-word-mapping](https://github.com/Ayush-2145/Leetcode-profile/tree/master/3838-weighted-word-mapping) |
 ## Prefix Sum
 |  |
@@ -166,6 +167,7 @@ My Leetcode profile along with solutions for different difficulty level problems
 | [0509-fibonacci-number](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0509-fibonacci-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ayush-2145/Leetcode-profile/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ayush-2145/Leetcode-profile/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Ayush-2145/Leetcode-profile/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3871-count-commas-in-range-ii](https://github.com/Ayush-2145/Leetcode-profile/tree/master/3871-count-commas-in-range-ii) |
 ## Bit Manipulation
 |  |
