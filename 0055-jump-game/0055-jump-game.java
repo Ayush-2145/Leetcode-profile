@@ -1,18 +1,18 @@
 class Solution {
+    public Boolean[] memo;
     public boolean canJump(int[] nums) {
-        int n = nums.length;
-        boolean[] dp = new boolean[n];
-        dp[n - 1] = true;
+        memo = new Boolean[nums.length];
+        return dfs(0,nums);
+    }
 
-        for(int i = n-2; i >= 0; i--){
-            int furthest = Math.min(i + nums[i], n-1);
-            for(int j = i + 1; j <= furthest; j++){
-                if(dp[j]){
-                    dp[i] = true;
-                    break;
-                }
-            }
+    public boolean dfs(int i, int[] nums) {
+        if(i >= nums.length - 1) return true;
+        if(memo[i] != null) return memo[i];
+
+        int furthest = Math.min(i + nums[i], nums.length - 1);
+        for(int j = i + 1; j <= furthest; j++){
+            if(dfs(j,nums)) return memo[i] = true;
         }
-        return dp[0];
+        return memo[i] = false;
     }
 }
