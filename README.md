@@ -30,6 +30,7 @@ My Leetcode profile along with solutions for different difficulty level problems
 | [0518-coin-change-ii](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0518-coin-change-ii) |
 | [0860-lemonade-change](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0860-lemonade-change) |
 | [1331-rank-transform-of-an-array](https://github.com/Ayush-2145/Leetcode-profile/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Ayush-2145/Leetcode-profile/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1732-find-the-highest-altitude](https://github.com/Ayush-2145/Leetcode-profile/tree/master/1732-find-the-highest-altitude) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ayush-2145/Leetcode-profile/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ayush-2145/Leetcode-profile/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -71,6 +72,7 @@ My Leetcode profile along with solutions for different difficulty level problems
 | [0455-assign-cookies](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Ayush-2145/Leetcode-profile/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Ayush-2145/Leetcode-profile/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ayush-2145/Leetcode-profile/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Ayush-2145/Leetcode-profile/tree/master/2094-finding-3-digit-even-numbers) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Ayush-2145/Leetcode-profile/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
@@ -84,6 +86,7 @@ My Leetcode profile along with solutions for different difficulty level problems
 | [0027-remove-element](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0027-remove-element) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0455-assign-cookies](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0455-assign-cookies) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Ayush-2145/Leetcode-profile/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ayush-2145/Leetcode-profile/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Ayush-2145/Leetcode-profile/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Simulation
@@ -247,6 +250,7 @@ My Leetcode profile along with solutions for different difficulty level problems
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Ayush-2145/Leetcode-profile/tree/master/0300-longest-increasing-subsequence) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Ayush-2145/Leetcode-profile/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
